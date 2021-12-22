@@ -36,6 +36,6 @@ then upload your own ```logo.jpg``` and ```face.jpg```, note filename is all low
 >    8. Replace the ways you offer to meet for tutoring
 >    9. Replace your availability
 >    10. Replace your email in the two spaces below
-###You are all setup! Congrats!
+### You are all setup! Congrats 🥳🥳
 
 
