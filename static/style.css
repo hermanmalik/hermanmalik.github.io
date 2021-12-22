@@ -94,8 +94,9 @@ body {
 
 /*Head/Footer of the Tutoring section*/
 #tutoring-maintext {
-    padding-left: 40px;
-    padding-right: 40px;
+    font-size: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 /*Text within the tutoring section*/
