@@ -1,0 +1,114 @@
+/*Setting the font-family and color*/
+h1, h2, h3, h4, h5, p {
+    font-family: Arial;
+    color: white;
+}
+
+/*Setting font size for paragraph*/
+p {
+    font-size: 12px;
+    color: white;
+}
+
+/*Making the body the container for the page*/
+body {
+    width: auto;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #202225;
+}
+
+/*Left side of the page*/
+#left {
+    width: 40%;
+    height: 100%;
+    max-width: 500px;
+    min-width: 300px;
+}
+
+/*Right side of the page*/
+#right {
+    width: 60%;
+    height: 100%;
+    padding-bottom: 30px;
+    max-width: 700px;
+    min-width: 300px;
+}
+
+/*Bio section*/
+#bio {
+    margin-top: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #36393F;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+/*Text within the bio section*/
+#bio-text {
+    margin-top: 50%;
+}
+
+/*Picture div close to the top */
+#bio-img {
+    margin-top: -69%;
+}
+
+/*Setting the size for GitHub/LinkedIn Icons*/
+#github, #linkedin {
+    height: 30px;
+}
+
+/*Setting location for GitHub/LinkedIn icons*/
+#bio-links {
+    margin-left: 10px;
+}
+
+/*Image centered within the bio-img div*/
+#bio-img img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 69%;
+    border-radius: 50%;
+}
+
+/*Indented text with experiences within the bio section*/
+#bio-experiences {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+/*Tutoring, aka right side of the page*/
+#tutoring {
+    margin-top: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    background-color: #36393F;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+/*Head/Footer of the Tutoring section*/
+#tutoring-maintext {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+/*Text within the tutoring section*/
+#tutoring-text {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/*Aesthetic details for the email*/
+#email {
+    text-decoration: none;
+    color: white;
+}
+
+
+
